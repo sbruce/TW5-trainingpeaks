@@ -1,0 +1,6 @@
+title: $:/plugins/sbruce/trainingpeaks/settings
+
+!Training Peaks Plugin Settings
+
+| Username| <$edit-text tiddler="$:/TrainingPeaksUser" default="" tag="input"/>|
+| Password| <$password name="trainingpeaks"/>|
