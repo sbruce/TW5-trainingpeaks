@@ -1,0 +1,7 @@
+{
+	"title": "$:/plugins/sbruce/trainingpeaks",
+	"description": "Pull data from Trainingpeaks.com",
+	"author": "Shaun Bruce",
+	"core-version": ">=5.0.0",
+	"list": "readme"
+}
